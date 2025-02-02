@@ -3,7 +3,7 @@ import React from 'react'
 const OverviewPage = () => {
   return (
     <div>
-      OER
+      Overview Page
     </div>
   )
 }
