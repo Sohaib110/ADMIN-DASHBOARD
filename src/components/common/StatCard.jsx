@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { Icon } from "lucide-react";
 
 function StatCard({ name, icon: Icon, value, color }) {
   return (
